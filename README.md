@@ -1,1 +1,40 @@
 # handykeeb
+
+## About
+
+One-handed keyboard designed for individuals with limb loss or limited hand function.
+
+Conditions in which this keyboard can be useful include:
+- hemiplegia
+- blindness (reading a braille screen with one hand while typing with the other hand)
+- as well as other conditions where typing with only one hand is required
+
+
+## Inspiration
+
+### Hardware
+
+- [Svalboard](https://svalboard.com/)
+- [DataHand](https://en.wikipedia.org/wiki/DataHand)
+- [Twiddler](https://mytwiddler.com/)
+- [Azeron](https://azeron.eu)
+- [Replicazeron](https://github.com/9R/replicazeron)
+- [DIY Azeron inspired gamepad](https://www.instructables.com/Azeron-Game-Pad-DIY-Under-35/)
+- [One-handed keyboard from HTXStudio](https://oshwhub.com/htx-studio/One-Handed_Keyboard)
+- [Prospector](https://github.com/carrefinho/prospector)
+- [YADS](https://github.com/janpfischer/zmk-dongle-screen)
+- [FrogPad](http://www.frogpad.com/)
+- [GeckPad](https://github.com/geckom/GeckoPad)
+- [ScottoFrog](https://scottokeebs.com/blogs/macropads/scottofrog-handwired-macropad)
+- [Maltron](https://maltron.com/)
+- [Tipy](https://tipykeyboard.com/)
+- [Some Chinese keyboard](https://item.taobao.com/item.htm?id=842895617801)
+- [Sunder E70 HE](https://sunderkeyboards.com/products/sunder-e70-he)
+- [Matias Half Keyboard](https://matias.store/products/half-keyboard)
+- [Lynx](https://www.lynxware.org)
+
+### Layouts
+
+- [HandsDown](https://sites.google.com/alanreiser.com/handsdown)
+- [Atrsey](https://artsey.io)
+- [konomu's Corne Layout](https://keymapdb.com/keymaps/konomu/)

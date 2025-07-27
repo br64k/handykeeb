@@ -35,6 +35,7 @@ Conditions in which this keyboard can be useful include:
 - [Sunder E70 HE](https://sunderkeyboards.com/products/sunder-e70-he)
 - [Matias Half Keyboard](https://matias.store/products/half-keyboard)
 - [Lynx](https://www.lynxware.org)
+- [Harite v2](https://github.com/dlip/harite-v2)
 
 ### Layouts
 

@@ -36,9 +36,15 @@ Conditions in which this keyboard can be useful include:
 - [Matias Half Keyboard](https://matias.store/products/half-keyboard)
 - [Lynx](https://www.lynxware.org)
 - [Harite v2](https://github.com/dlip/harite-v2)
+- [Harite v3](https://kbd.news/Harite-v3-2687.html)
+- [Self made keyboards in Japan](https://scrapbox.io/self-made-kbds-ja/)
+- [Experience of making wireless split keyboard with scissors mechanism](https://note.com/copkbd/n/n619a4a6dbea7)
+- [HHKB-like low profile keeb](https://note.com/copkbd/n/na3d4d4931048)
+- [Movemaster RSG](https://movemaster.tech/en/blogs/news)
 
 ### Layouts
 
 - [HandsDown](https://sites.google.com/alanreiser.com/handsdown)
 - [Atrsey](https://artsey.io)
 - [konomu's Corne Layout](https://keymapdb.com/keymaps/konomu/)
+- [Engram Layout](https://engram-layouts.xyz/)

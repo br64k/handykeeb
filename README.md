@@ -8,10 +8,10 @@
 One-handed keyboard designed for individuals with limb loss or limited hand function.
 
 Conditions in which this keyboard can be useful include:
+
 - hemiplegia
 - blindness (reading a braille screen with one hand while typing with the other hand)
 - as well as other conditions where typing with only one hand is required
-
 
 ## Inspiration
 
@@ -48,3 +48,7 @@ Conditions in which this keyboard can be useful include:
 - [Atrsey](https://artsey.io)
 - [konomu's Corne Layout](https://keymapdb.com/keymaps/konomu/)
 - [Engram Layout](https://engram-layouts.xyz/)
+
+### Useful links
+
+- [One-handed accessible keyboard inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)

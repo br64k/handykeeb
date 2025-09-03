@@ -49,3 +49,7 @@ Conditions in which this keyboard can be useful include:
 ### Useful links
 
 - [One-handed accessible keyboard inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+
+## Credits
+
+Special thanks to [clackups](https://github.com/clackups) for the assistance with funding the experiments, which is helping to turn this project from an idea into a product.

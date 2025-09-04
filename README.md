@@ -41,6 +41,7 @@ Currently working on [v1](./src/v1/)
 - [HHKB-like low profile keeb](https://note.com/copkbd/n/na3d4d4931048)
 - [Movemaster RSG](https://movemaster.tech/en/blogs/news)
 - [Aurora40](https://github.com/merrittlj/aurora40)
+- [Subliminal Contradiction Keycaps by Pseudoku](https://github.com/pseudoku/Subliminal-Contradiction)
 
 ### Layouts
 

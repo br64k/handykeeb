@@ -10,6 +10,8 @@ Conditions in which this keyboard can be useful include:
 - blindness (reading a braille screen with one hand while typing with the other hand)
 - as well as other conditions where typing with only one hand is required
 
+Currently working on [v1](./src/v1/)
+
 ## Inspiration
 
 ### Hardware

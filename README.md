@@ -40,6 +40,7 @@ Currently working on [v1](./src/v1/)
 - [Experience of making wireless split keyboard with scissors mechanism](https://note.com/copkbd/n/n619a4a6dbea7)
 - [HHKB-like low profile keeb](https://note.com/copkbd/n/na3d4d4931048)
 - [Movemaster RSG](https://movemaster.tech/en/blogs/news)
+- [Aurora40](https://github.com/merrittlj/aurora40)
 
 ### Layouts
 
@@ -51,6 +52,9 @@ Currently working on [v1](./src/v1/)
 ### Useful links
 
 - [One-handed accessible keyboard inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+- [QMK Home](https://qmk.fm/)
+- [ZMK Home](https://zmk.dev/)
+- [RMK Home](https://rmk.rs/)
 
 ## Credits
 

@@ -12,6 +12,10 @@ Conditions in which this keyboard can be useful include:
 
 Currently working on [v1](./src/v1/)
 
+## Links
+
+- [Firmware](https://github.com/br64k/handykeeb-qmk) - only QMK supported yet
+
 ## Inspiration
 
 ### Hardware

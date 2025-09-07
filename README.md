@@ -46,6 +46,8 @@ Currently working on [v1](./src/v1/)
 - [Movemaster RSG](https://movemaster.tech/en/blogs/news)
 - [Aurora40](https://github.com/merrittlj/aurora40)
 - [Subliminal Contradiction Keycaps by Pseudoku](https://github.com/pseudoku/Subliminal-Contradiction)
+- [ScottoGame](https://scottokeebs.com/blogs/keyboards/scottogame-handwired-keyboard)
+- [ScottoFrog](https://scottokeebs.com/blogs/macropads/scottofrog-handwired-macropad)
 
 ### Layouts
 
@@ -57,9 +59,16 @@ Currently working on [v1](./src/v1/)
 ### Useful links
 
 - [One-handed accessible keyboard inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+- [Klava Wiki(ru)](https://github.com/braindefender/klava-wiki)
+- [Compiling QMK Firmware using github codespaces](https://scottokeebs.com/blogs/guides/compiling-qmk-firmware-using-github-codespaces)
 - [QMK Home](https://qmk.fm/)
 - [ZMK Home](https://zmk.dev/)
 - [RMK Home](https://rmk.rs/)
+
+#### YouTube
+
+- [How to build a handwired keyboard](https://www.youtube.com/watch?v=hjml-K-pV4E)
+- 
 
 ## Credits
 

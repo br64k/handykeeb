@@ -48,6 +48,8 @@ Currently working on [v1](./src/v1/)
 - [Subliminal Contradiction Keycaps by Pseudoku](https://github.com/pseudoku/Subliminal-Contradiction)
 - [ScottoGame](https://scottokeebs.com/blogs/keyboards/scottogame-handwired-keyboard)
 - [ScottoFrog](https://scottokeebs.com/blogs/macropads/scottofrog-handwired-macropad)
+- [Achordion](https://getreuer.info/posts/keyboards/achordion/index.html)
+- [QMK and keyboards](https://getreuer.info/posts/keyboards/index.html)
 
 ### Layouts
 

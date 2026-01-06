@@ -66,11 +66,11 @@ Currently working on [v1](./src/v1/)
 - [QMK Home](https://qmk.fm/)
 - [ZMK Home](https://zmk.dev/)
 - [RMK Home](https://rmk.rs/)
+- [Keyboard FAQs](https://getreuer.info/posts/keyboards/faqs/index.html)
 
 #### YouTube
 
 - [How to build a handwired keyboard](https://www.youtube.com/watch?v=hjml-K-pV4E)
-- 
 
 ## Credits
 
